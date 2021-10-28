@@ -42,3 +42,5 @@ else()
    	target_link_libraries(main PRIVATE glfw)
 	target_link_libraries(main PRIVATE glm::glm)
 endif(APPLE)
+
+//what is this
