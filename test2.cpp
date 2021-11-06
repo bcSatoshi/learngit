@@ -5,5 +5,6 @@ int main(){
 	int c=1; 
 	int d=1; 
 int e=1;
+int g=1；
 	printf("%d",a);
 }
